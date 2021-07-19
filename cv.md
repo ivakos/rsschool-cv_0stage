@@ -15,11 +15,11 @@
 * Knowledge of HTML5, CSS3, JavaScript;
 * Experience in cross-browser&adaptive website coding;
 * Experience in working with SASS, LESS;
-* Web site development experience using Visual Studio Code.
+* Web site development experience using Visual Studio Code.  
 
- [Link to my project on github](https://github.com/ivakos/EnglishBook)
+ [Link to my project on github](https://github.com/ivakos/EnglishBook)  
 
- And a piece of code.
+ And a piece of code.  
 
 ```
 (function($){
@@ -41,6 +41,6 @@
 Unfortunately, nowadays I haven't any experience in project. But I wanna change it.
 
 **My Education:** 
-Brest State Technical University, Faculty of Electronic Information Systems, Artificial Intelligence.
+Brest State Technical University, Faculty of Electronic Information Systems, Artificial Intelligence.  
 
 And **English level - B1**.
