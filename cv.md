@@ -16,8 +16,11 @@
 * Experience in cross-browser&adaptive website coding;
 * Experience in working with SASS, LESS;
 * Web site development experience using Visual Studio Code.
+
  [Link to my project on github](https://github.com/ivakos/EnglishBook)
+
  And a piece of code.
+
 ```
 (function($){
   $(function() {
@@ -39,4 +42,5 @@ Unfortunately, nowadays I haven't any experience in project. But I wanna change 
 
 **My Education:** 
 Brest State Technical University, Faculty of Electronic Information Systems, Artificial Intelligence.
+
 And **English level - B1**.
