@@ -1,0 +1,9 @@
+body {
+width: 500px;
+margin: 0 auto;
+list-style-position: inside;
+}
+
+footer, header{
+    text-align: center;
+}
